@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @ArunPrasad46
-- 👀 I’m interested in AI development
-- 🌱 I’m currently learning Ethical Hacking
-- 💞️ I’m looking to collaborate on AI
+- Hi, I’m @ArunPrasad46
+- I’m interested in AI development
+- I’m looking to collaborate on AI
 
 <!---
 ArunPrasad46/ArunPrasad46 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
